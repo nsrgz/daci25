@@ -15,7 +15,7 @@ This repository contains my coursework for the **Analog IC Design** course taugh
 
 | Weeks   | Some Topics                                                                | Dates      | 
 |---------|----------------------------------------------------------------------------|------------|
-| Week 1  | [MOS Physics, 2nd Orden Effects, Device Capacitances](README.md#week-1)    | 2025-04-12 |
+| Week 1  | [MOS Physics, 2nd Orden Effects, Device Capacitances](#week-1)             | 2025-04-12 |
 | Week 2  | Single Stage Amplifiers, Common-Source, Current Mirror                     | 2025-04-19 |
 | Week 3  | Follower, Common-Gate, Cascode, Differential Amplifier                     | 2025-04-26 |
 | Week 4  | Frequency Response, Miller Effect                                          | 2025-05-03 |
@@ -26,3 +26,5 @@ This repository contains my coursework for the **Analog IC Design** course taugh
 
 
 ### Week 1
+
+
