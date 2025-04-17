@@ -13,16 +13,16 @@ This repository contains my coursework for the **Analog IC Design** course taugh
 
 ## 📅 Weekly Sessions
 
-| Week    | Some Topics                                            | Start      | 
-|---------|--------------------------------------------------------|------------|
-| Week 1  | MOS Physics, 2nd Orden Effects, Device Capacitances    | 2025-04-12 |
-| Week 2  | Single Stage Amplifiers, Common-Source, Current Mirror | 2025-04-19 |
-| Week 3  | Follower, Common-Gate, Cascode, Differential Amplifier | 2025-04-26 |
-| Week 4  | Frequency Response, Miller Effect                      | 2025-05-03 |
-| Week 5  | Noise Analysis, Opamp Design Introduction              | 2025-05-10 |
-| Week 6  | OpAmp Design: Compensation Techniques, Linearity...    | 2025-05-17 |
-| Week 7  | Stability, Frequency Compensation, Feedback            | 2025-05-24 |
-| Week 8  | Project Design (Results)                               | 2025-05-31 |
+| Weeks   | Some Topics                                                                | Dates      | 
+|---------|----------------------------------------------------------------------------|------------|
+| Week 1  | [MOS Physics, 2nd Orden Effects, Device Capacitances](README.md#week-1)    | 2025-04-12 |
+| Week 2  | Single Stage Amplifiers, Common-Source, Current Mirror                     | 2025-04-19 |
+| Week 3  | Follower, Common-Gate, Cascode, Differential Amplifier                     | 2025-04-26 |
+| Week 4  | Frequency Response, Miller Effect                                          | 2025-05-03 |
+| Week 5  | Noise Analysis, Opamp Design Introduction                                  | 2025-05-10 |
+| Week 6  | OpAmp Design: Compensation Techniques, Linearity...                        | 2025-05-17 |
+| Week 7  | Stability, Frequency Compensation, Feedback                                | 2025-05-24 |
+| Week 8  | Project Design (Results)                                                   | 2025-05-31 |
 
 
-
+### Week 1
